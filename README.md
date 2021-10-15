@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BobWRowsse
 - 👀 I’m interested in everything Frontend Development
-- 🌱 I’m currently learning best practices
-- 💞️ I’m looking to collaborate on a project that contributes to the betterment of people's lives.
+- 🌱 I’m currently working with a beautiful team that has introduced digital queues in Sweden.
+- 💞️ I’m looking to collaborate on projects that contributeto the betterment of people's lives.
 - 📫 email me: bobrowsse@gmail.com
 
 <!---
